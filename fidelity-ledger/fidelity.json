@@ -1,0 +1,83 @@
+{
+  "content_hash": "sha256:99262b953bb078e06214a0d7e1a5604ad3096faee405f3d864472e1fd1670eaf",
+  "stale": [],
+  "register_families": [
+    "R1",
+    "R2",
+    "R3"
+  ],
+  "projection": {
+    "gate": {
+      "overall": 1.0,
+      "passed": true,
+      "recurations": 0,
+      "note": "Passed on the first five-item mask; no re-curation loop was triggered."
+    },
+    "final": {
+      "overall": 1.0,
+      "by_domain": {
+        "political scale and power": 1.0,
+        "federation and economic union": 1.0,
+        "development and self-sufficiency": 1.0,
+        "living standards and diseconomies": 1.0,
+        "universities and institutional scale": 1.0
+      },
+      "hit_2": 1.0,
+      "hit_1": 0.0
+    },
+    "seed": 42,
+    "n_masked": 5,
+    "stratified": true,
+    "sampling_note": "Five of 36 passages were masked by domain: CR2, IM3, PP1, PR3, and PROC4. The urban domain received no masked item. Final testing reused the same mask and non-independent grader, so it measures assembly retention rather than fresh generalisation."
+  },
+  "cost": {
+    "total_divergences": 8,
+    "slated_for_core": 8,
+    "in_core_final": 8,
+    "logged_out": 0,
+    "missing_unlogged": 0,
+    "presence_assertion": "pass"
+  },
+  "style": {
+    "sentence_len_delta": 0.0217,
+    "hedge_rate_delta": 0.1866,
+    "avoid_list_violations": 0,
+    "modulation_reproduced": true,
+    "notes": "Three core-plus-voice samples were tested, one per family; R3 contained 570 words. Family sentence-length ordering R2 > R1 > R3 and R1 zero direct address/questions were reproduced. P90 sentence lengths remained below the source baselines and R3 boosters were elevated (7.02 versus 4.13 per thousand words).",
+    "by_family": {
+      "R1": {
+        "baseline_mean_sentence": 30.59,
+        "sample_mean_sentence": 31.25,
+        "sentence_len_delta": 0.0216,
+        "baseline_hedges_per_1k": 5.75,
+        "sample_hedges_per_1k": 4.0,
+        "hedge_rate_delta": 0.3043
+      },
+      "R2": {
+        "baseline_mean_sentence": 34.52,
+        "sample_mean_sentence": 33.64,
+        "sentence_len_delta": 0.0255,
+        "baseline_hedges_per_1k": 7.2,
+        "sample_hedges_per_1k": 8.11,
+        "hedge_rate_delta": 0.1264
+      },
+      "R3": {
+        "baseline_mean_sentence": 26.66,
+        "sample_mean_sentence": 27.14,
+        "sentence_len_delta": 0.018,
+        "baseline_hedges_per_1k": 8.06,
+        "sample_hedges_per_1k": 7.02,
+        "hedge_rate_delta": 0.129
+      }
+    }
+  },
+  "discrimination": {
+    "score": 1.0,
+    "n": 9,
+    "seed": 42,
+    "mask_names": true,
+    "confusable_pairs": [],
+    "required": true,
+    "merge_triggered": true
+  }
+}
