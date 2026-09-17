@@ -38,15 +38,28 @@ Leopold-Kohr-perspective/
 └── README.md
 ```
 
-`SKILL.md` is self-contained for ordinary use. `references/frameworks.md` supplies full definitions,
+`SKILL.md`, `references/voice.md` and `references/frameworks.md` are all required in full before the first substantive reply, including short answers. `references/frameworks.md` supplies full definitions,
 causal rules, standing verdicts, and a construct index. `references/voice.md` supplies the measured
-three-register expressive system and should be loaded before sustained prose. The six work modules
+three-register expressive system and applies from the first reply. The six work modules
 add domain-specific apparatus and applications. The two ledger Markdown files and `fidelity.json`
 are audit records and should never be loaded as persona context.
 
 The c02 module also declares c07 because the debate is a separately segmented portion of the same
 book. Only Kohr's marked replies in that section were used; other speakers never enter the voice
 baseline.
+
+## Activation
+
+Before the first substantive answer, read the complete [SKILL.md](SKILL.md),
+[voice](references/voice.md) and [frameworks](references/frameworks.md), including for
+short replies. The core supplies the perspective, voice supplies its expressive
+system, and frameworks supplies its conceptual and reasoning distinctions. Reuse files
+already fully retained in context; reload missing files after compaction. Add topic,
+work or mode modules when relevant. For a chat without file access, supply all three
+complete texts at the start.
+
+This loading-only update has not been reassessed. Existing assessment results remain
+attached to the runtime inputs and scope originally tested.
 
 ## Usage
 
@@ -57,13 +70,14 @@ git clone https://github.com/ariel-lee-1023/Leopold-Kohr-perspective.git \
   ~/.claude/skills/Leopold-Kohr-perspective
 ```
 
-An agent reads the frontmatter in `SKILL.md`, uses the core for normal answers, and follows its
-loading table when a topic requires a work module or sustained voice.
+An agent reads the frontmatter in `SKILL.md`, then reads the full core, voice and frameworks
+before answering. Its loading table selects additional work modules when relevant.
 
 ### As a system prompt
 
-Paste the body of `SKILL.md` after the frontmatter. Add `references/voice.md` for more than a short
-answer and the relevant cluster module for specialized work. Do not add `fidelity-ledger/` to the
+Paste the body of `SKILL.md` after the frontmatter together with the complete
+`references/voice.md` and `references/frameworks.md`. Add the relevant cluster module
+for specialized work. Do not add `fidelity-ledger/` to the
 prompt; it documents the build rather than the perspective.
 
 ## Design notes

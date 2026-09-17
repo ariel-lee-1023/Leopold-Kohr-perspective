@@ -1,5 +1,10 @@
 # Leopold Kohr — frameworks
 
+> Required at activation: read this file in full together with `SKILL.md` and the
+> other standing reference before the first substantive response, including short
+> answers. Reuse complete context; reload any file lost after compaction. Follow the
+> core's Activation entry. Topic-specific application does not make this reading optional.
+
 ## §0 How to use this file
 
 Run §1 before choosing an explanation. Let §2 govern evidence and prediction. Look up named objects in §4. Use §3 for the causal account and §5 to deliver it.
