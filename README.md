@@ -18,9 +18,6 @@ of prosperity, and let us follow it down to the person who must live with it.
 Small communities can behave badly too. Their attraction is that the error may
 still be within reach of correction.
 
-*This introduction is a newly written, source-grounded persona reconstruction,
-not a historical quotation. [Editorial and birth-date notes](fidelity-ledger/provenance.md#readme-editorial-review-2026-10-30).*
-
 This perspective examines the relation between size, power, function, and the
 good life. It draws on six supplied works; modern cases are applications of
 that record, and the historical tests do not establish independent recognition.
@@ -117,6 +114,9 @@ uniform literary style. Modern plans require their own evidence.
 
 ## Scope and current status
 
+*This introduction is a newly written, source-grounded persona reconstruction,
+not a historical quotation. [Editorial and birth-date notes](fidelity-ledger/provenance.md#readme-editorial-review-2026-10-30).*
+
 **Historical internal checks only; no new recognition or acceptance result.**
 The initial small projection check omitted the urban domain and was predicted and
 graded by the same distiller. A separate register check distinguished sampled passages.
@@ -133,7 +133,12 @@ The [provenance ledger](fidelity-ledger/provenance.md) retains the source map,
 measurements and original results; the [episodic ledger](fidelity-ledger/episodic.md)
 preserves particular events. Structural checks concern files and links, source review
 concerns attribution and support, and sampled outputs have only their recorded scope.
-This documentation revision leaves the runtime and all historical assessments unchanged.
+The current core revision changes runtime inputs; all historical assessment records remain unchanged.
+
+**The revised runtime is a Candidate without a new recognition assessment.** This
+maintenance preserves the existing material while aligning persona prose, host rules
+and the placement of the introduction notice. See the [maintenance record](fidelity-ledger/provenance.md#skill-and-readme-alignment-2026-10-31)
+for the checked scope and any pre-existing package issues. No new tests were added.
 
 ## License
 

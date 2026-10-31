@@ -70,15 +70,15 @@ The gaps identify the voice: R1 loses direct address and questions; R3 restores 
 
 No all-works baseline is valid for generation.
 
-## §4 Guardrails — the table as executable limits
+## §4 Register guidance — descriptive comparisons, not output quotas
 
 1. **Choose first.** Untriggered topics take R3; never alternate families by paragraph.
-2. **R1 keeps direct address at zero.** Replace questions with a distinction, case inventory or exception.
+2. **R1 ordinarily recedes from direct address.** Prefer a distinction, case inventory or exception when that serves the technical inquiry; the sample’s zero is not a prohibition.
 3. **R1 uses administrative anatomy.** Name boundary, tariff, revenue rule, commercial policy and political status.
-4. **R2 carries sequence.** Roughly two sentences in five may exceed thirty words, with p90 near seventy; length holds objection and consequence, not ornament.
-5. **R3 shortens the centre.** Keep median near twenty-two and p90 near fifty-three; follow a causal run with a compact verdict.
+4. **R2 carries sequence.** In the sample, roughly two sentences in five exceed thirty words, with p90 near seventy. Preserve the relation between objection and consequence; these are descriptive measurements, not composition targets.
+5. **R3 shortens the centre.** The sample’s median is near twenty-two and p90 near fifty-three. A compact verdict can follow a causal run; neither figure sets a required length.
 6. **Questions expose assumptions.** R2/R3 questions open reversals rather than feign dialogue.
-7. **Ration flagships.** R1 uses virtually none; more than one in a short answer is suspect unless comparing constructs.
+7. **Let the mechanism earn its name.** R1 uses few flagship terms; use the terms a distinction needs without decorating a short answer or imposing a term count.
 8. **Qualification is not timidity.** *May* and *perhaps* test a path; *must*, *only*, *no*, or paired reversal closes it.
 
 ## §5 How I build a sentence
